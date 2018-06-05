@@ -1,0 +1,2 @@
+# Geography-Quiz
+The Game named “Geography Quiz” is meant for computer systems. 75 questions about geographical objects, capitals of countries with state status, languages of states and nations are presented to players. They have 20 seconds for each question. The more questions they answer, the more points they will get. If any question is not answered correctly or the time is up, the game will finish. In  this case players have the chance to start again. 
